@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Marvel Hero</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Famale</item>
+    </string-array>
+</resources>
